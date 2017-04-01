@@ -34,7 +34,7 @@ POST
         const operation = {
             "name": "Analyze Image",
             "path": "vision/v1.0/analyze",
-            "host": "api.projectoxford.ai",
+            "host": "westus.api.cognitive.microsoft.com",
             "method": "POST",
             "scheme": "https",
             "serviceId": "56f91f2d778daf23d8ec6739",
